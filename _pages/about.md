@@ -4,10 +4,18 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is César Herrera and I am doing my PhD at James Cook Univeristy, Townsville, Australia. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+You can find me in [Twitter](https://twitter.com/cexynature)
+
+
+![]({{ site.baseurl }}/images/8081.jpg "The beautiful city of Townsville")
+![]({{ site.baseurl }}/images/Tubuca.png "A fiddler crab specimen")
+![]({{ site.baseurl }}/images/6053.jpg "Fiddler crabs' domes")
+![]({{ site.baseurl }}/images/5848 "The muddy nature of this job")
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
+
+
