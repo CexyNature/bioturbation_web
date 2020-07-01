@@ -4,7 +4,7 @@
 
 A reader friendly version of this repository can be found [here](https://CexyNature.github.io/bioturbation_web/)
 
-Bioturbation and biodeposition by intertidal crabs - a blog with results
+# Bioturbation and biodeposition by intertidal crabs - a blog with results
 <sup>_powered by [fastpages](https://github.com/fastai/fastpages)_</sup>
 
 =================
