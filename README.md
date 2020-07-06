@@ -18,7 +18,7 @@ A readers friendly version of this repository can be found [here](https://CexyNa
 
 I want to use a transparent, reproducible and open approach in my research projects. A first step I have already employed is to make the data and code associated to my investigation available. In this repository, I am trying to implement a second level of transparency, this is, sharing preliminary ideas, analysis and results as a blog style.
 
-This could serve two purposes: 
+This serves two purposes: 
 - Increase/Improve/Enhance accountability in the research workflow
 - Improve the way science is communicated using a more organic format which allows to combine text, code and figures.
 
