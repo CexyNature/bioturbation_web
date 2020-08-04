@@ -12,17 +12,13 @@
 Bioturbation and biodeposition by intertidal crabs - a blog with results 
 ==========
 
-A readers friendly version of this repository can be found [here](https://CexyNature.github.io/bioturbation_web/)
+A reader's friendly version of this repository can be found [here](https://CexyNature.github.io/bioturbation_web/)
 
 ## The reason for this repository
 
-I want to use a transparent, reproducible and open approach in my research projects. A first step I have already employed is to make the data and code associated to my investigation available. In this repository, I am trying to implement a second level of transparency, this is, sharing preliminary ideas, analysis and results as a blog style.
-
-This serves two purposes: 
-- Increase/Improve/Enhance accountability in the research workflow
+I want to use a transparent, reproducible and open approach in my research projects. A first step I have already implemented is to make the data and code associated to my research available to everyone. A second level of transparency and reproducibility which I am currently employing is to make public the computational environment where figure, analysis and models were done. This is, create a virtual environment containing the specific version of software and libraries used in a particular manuscript or product. I am currently using Jupyter Notebooks, RStudio and the fabulous MyBinder for this purpose. I am always keen to know about alternative software and workflows.  In this repository, I am trying to employ a third level of transparency, this is, sharing preliminary ideas, analysis and results as blog posts. This serves two purposes: 
+- Increase or improve research accountability by explicitly reporting objectives, experimental designs, methodological flaws and limitations, early findings and ideas during data analysis, and previous the manuscript submission to a scientific journals.
 - Improve the way science is communicated using a more organic format which allows to combine text, code and figures.
 
-The full research code used in this repository is available in another repository (currently private).
-
-The full code for deploying this blog can be found in the [fastpages GitHub repository](https://github.com/fastai/fastpageshttps).
+The full research code used in this repository is available in another repository (currently private). The full code for deploying this blog can be found in the [fastpages GitHub repository](https://github.com/fastai/fastpageshttps).
 
